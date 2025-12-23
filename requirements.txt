@@ -1,0 +1,12 @@
+web3
+etherscan-python
+pandas
+networkx
+flask
+dash
+scikit-learn
+shap
+lime
+neo4j
+plotly
+transformers
